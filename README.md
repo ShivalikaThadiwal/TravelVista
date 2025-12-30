@@ -36,18 +36,18 @@ To run **Tourest** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourest.git
+sudo git clone https://github.com/ShivalikaThadiwal/tourest.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourest.git
+git clone https://github.com/ShivalikaThadiwal/tourest.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](www.linkedin.com/in/shivalika-thadiwal-a0532a2a7).
 
 ### License
 
